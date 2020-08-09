@@ -1,4 +1,6 @@
 
+<script>
+
 // <![CDATA[
 function FloatMenu(){
   var animationSpeed=1500;
@@ -34,3 +36,5 @@ $(function() {
 });
 
 // ]]>
+
+</script>
