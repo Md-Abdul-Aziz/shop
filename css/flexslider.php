@@ -1,3 +1,4 @@
+<style>
 /*
  * jQuery FlexSlider v2.0
  * http://www.woothemes.com/flexslider/
@@ -106,3 +107,4 @@ html[xmlns] .slides {display: block;}
 }
 
 }
+</style>

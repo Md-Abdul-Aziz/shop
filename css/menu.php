@@ -1,3 +1,4 @@
+<style>
 /* dCodes Framework:(c) TemplateAccess */
 ul.dc_mm-orange,ul.dc_mm-orange li{
 	border:none;
@@ -218,3 +219,4 @@ ul.dc_mm-orange li .sub-container.non-mega li a:hover{
 		display:none;
 	}	
  }
+ </style>

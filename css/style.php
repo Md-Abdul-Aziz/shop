@@ -1,3 +1,5 @@
+<style>
+
 html,
 body,
 div,
@@ -3062,3 +3064,4 @@ table.tblone img {
         padding: 4%;
     }
 }
+</style>
