@@ -1,3 +1,4 @@
+<style>
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * General page setup
@@ -97,3 +98,5 @@
 	width: 50%;
 	margin-bottom: 1em;
 }
+
+</style>

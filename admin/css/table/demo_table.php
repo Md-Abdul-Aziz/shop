@@ -1,3 +1,6 @@
+<style>
+
+
 /*
  *  File:         demo_table.css
  *  CVS:          $Id$
@@ -536,3 +539,5 @@ div.box {
 	border: 1px solid #8080FF;
 	background-color: #E5E5FF;
 }
+
+</style>

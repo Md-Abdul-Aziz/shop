@@ -1,4 +1,6 @@
-﻿.fancy-radio
+﻿<style>
+
+.fancy-radio
 {
     width: 16px;
     height: 16px;
@@ -25,3 +27,5 @@
 {
     background-image: url('../../img/fancy-button/chekbox_on.png');
 }
+
+</style>

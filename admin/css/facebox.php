@@ -1,3 +1,6 @@
+<style>
+
+
 #facebox {
   position: absolute;
   top: 0;
@@ -82,3 +85,5 @@
   background-color: #000;
   z-index: 99;
 }
+
+</style>

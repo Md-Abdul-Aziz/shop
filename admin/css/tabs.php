@@ -1,4 +1,8 @@
-﻿ul.sorting
+﻿<style>
+
+
+
+ul.sorting
 {
    
     list-style-type: none;
@@ -72,3 +76,5 @@ h2 span
     line-height: 1.5;
     color: #A2A2A2;
 }
+
+</style>

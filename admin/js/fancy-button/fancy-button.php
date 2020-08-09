@@ -1,4 +1,6 @@
-﻿(function ($) {
+﻿<script>
+
+(function ($) {
     $.fn.extend({
         fancybutton: function () {
             return this.each(function () {
@@ -67,3 +69,5 @@
         }
     });
 })(jQuery);
+
+</script>

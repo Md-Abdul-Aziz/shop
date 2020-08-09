@@ -1,3 +1,6 @@
+<style>
+
+
 /*
  *  File:         demo_table_jui.css
  *  CVS:          $Id$
@@ -519,3 +522,5 @@ tr.even.gradeU td.sorting_3 {
 .ex_highlight #example tbody tr.odd:hover, #example tbody tr.odd td.highlighted {
 	background-color: #E6FF99;
 }
+
+</style>

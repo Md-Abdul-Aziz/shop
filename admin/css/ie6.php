@@ -1,3 +1,6 @@
+<style>
+
+
 /*
 	Fluid 960 Grid System - IE6 Fixes
 	Learn more ~ http://www.designinfluences.com/
@@ -29,3 +32,4 @@
 	margin-right: .8%;
 }
 
+</style>
